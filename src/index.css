@@ -1,0 +1,22 @@
+.Main{
+  /* display: flex; */
+  margin: 30px;
+}
+
+.card{
+  margin: 20px;
+  width: 250px;
+  height: 100px;
+  background-color: pink;
+  display: flex;align-items: center;
+  padding: 20px;
+}
+
+.pokemonImg{
+  width: 200px;
+  height: 100px;
+}
+html{
+  width: 100%;
+  max-width: 100%;
+}
